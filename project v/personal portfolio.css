@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navhead {
+    color: black;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.webhead {
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    color: #FDC435;
+
+}
+
+.mainhead {
+    font-family: Playfair Display;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    text-align: left;
+}
+
+.para {
+    font-family: Nunito;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    color: #3a3d6e;
+}
+
+.btn1 {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    background-color: #FDC435;
+
+}
+
+.btn2 {
+    color: #030417;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: "Roboto";
+    border-color: #030417;
+    border-radius: 5px;
+}
+
+.navabout {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.addhead {
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+}
+
+.projectname {
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+}
+
+.decription {
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.button {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    float: right;
+    color: #25282B;
+    background: #FDC435;
+}
+
+.pad {
+    padding-bottom: 30px;
+}
+
+.projectshead {
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+}
+
+.todohead {
+    font-family: Playfair Display;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: left;
+}
+
+.todopara {
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.todobtn {
+    font-family: Roboto;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 26px;
+    padding: 5px;
+    color: black;
+
+}
+
+.top-image {
+    height: 30vh;
+    width: 50vh;
+}
+
+.icons {
+    color: white;
+}
+
+.icons-container {
+    margin: 15px;
+    padding-top: 23px;
+    padding: 8px;
+}
+
+.copy {
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+    color: #454166;
+
+}
